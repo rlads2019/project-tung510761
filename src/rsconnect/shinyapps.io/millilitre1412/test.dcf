@@ -1,0 +1,12 @@
+name: test
+title:
+username:
+account: millilitre1412
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1611152
+bundleId: 2680472
+url: https://millilitre1412.shinyapps.io/test/
+when: 1576747147.89607
+asMultiple: FALSE
+asStatic: FALSE
